@@ -1,4 +1,4 @@
-name: bamboo
+name: rdata
 channels:
   - conda-forge
 dependencies:
