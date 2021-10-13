@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-mamba build recipes/plotit
-mamba build purge
-mamba install -c /srv/conda/envs/notebook/conda-bld plotit
+# mamba build recipes/plotit
+# mamba build purge
+# mamba install -c /srv/conda/envs/notebook/conda-bld plotit
 jupyter serverextension enable --py nbgitpuller --sys-prefix
