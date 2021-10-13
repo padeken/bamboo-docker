@@ -13,4 +13,6 @@ dependencies:
   - bc
   - nbgitpuller
   - pip
+  - matplotlib
+  - ipympl
 
