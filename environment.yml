@@ -9,3 +9,14 @@ dependencies:
   - ipympl
   - uproot
 
+  - cmake
+  - boost
+  - numpy
+  - pyyaml
+  - icu
+  - conda-build
+  - conda-verify
+  - bc
+  - nbgitpuller
+  - pip
+  - pandas
