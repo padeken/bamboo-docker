@@ -19,3 +19,4 @@ dependencies:
   - nbgitpuller
   - pip
   - pandas
+  - wget
