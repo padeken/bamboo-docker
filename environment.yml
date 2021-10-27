@@ -8,7 +8,6 @@ dependencies:
   - matplotlib
   - ipympl
   - uproot
-
   - cmake
   - boost
   - numpy
