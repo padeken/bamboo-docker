@@ -2,7 +2,7 @@ name: rdata
 channels:
   - conda-forge
 dependencies:
-  - root=6.22.8
+  - root
   - numpy
   - pandas
   - matplotlib
